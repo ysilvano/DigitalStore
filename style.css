@@ -7,5 +7,65 @@ body{
     margin-left: 5%;
     margin-right: 5%;
     padding: auto;
+    background-color: whitesmoke;
+    display: block;
 }
+
+.cabecalho{
+    background-color: white;
+    justify-content: center;
+    flex-direction: row;
+    display: inline-flex;
+}
+
+.digitalstore{
+    margin-top: 5%;
+    margin-left: 10%;;
+    margin-bottom: 5%;
+}
+
+.pesquisa{
+    margin-top: 8%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    align-items: center;
+}
+
+input{
+    padding-bottom: 5%;
+    justify-content: center; 
+    align-items: center;
+    width: 200px;
+    height: 20px;
+}
+
+button{
+    margin-top: 7.5%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    width: 100px;
+    height: 30px;
+    justify-content: center; 
+    align-items: center;
+}
+
+.cadastro{
+    margin-top: 7.5%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    align-items: center;
+}
+
+.entrar{
+    margin-top: 8.2%;
+    margin-left: 5%;
+    margin-bottom: 8%;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 20px;
+}
+
+
+
 
